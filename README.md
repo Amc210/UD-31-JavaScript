@@ -1,2 +1,2 @@
 # UD-31-JavaScript
-Ejercicicos Java Script 
+Ejercicicos 1 - 10 Java Script 
